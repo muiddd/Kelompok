@@ -1,7 +1,7 @@
 /**
  * Tugas
  */
-public class Tugas {
+public class BiodataMuid {
 
     public static void main(String[] args) {
         System.out.println("------------------------------------------------");
